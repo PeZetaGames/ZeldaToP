@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+		 <meta charset="UTF-8">
+		 <title>Noticias | TLoZ: ToP</title>
+		 <link rel="icon" type="image/png" href="img/favicon.png"/>
+		 
+         <style>
+			 body{
+				 background: url(img/StarlitSky.png);
+				 background-repeat: repeat-x;
+				 font-family: sans-serif;
+			 }
+		 
+		         a{
+		                 text-decoration: none;
+		         }
+		 
+		         a:hover{
+		                 text-decoration: underline;
+		         }
+
+			 .fade-in{
+				 animation: fadeIn 2s;
+			 }
+
+			 @keyframes fadeIn{
+				 from{
+					 opacity: 0;
+				 }
+
+				 to{
+					 opacity: 1;
+				 }
+			 }
+		 </style>
+
+         <a href="https://www.facebook.com/ZeldaToP"><img src="img/enlace1.png" onmouseover="this.src='img/enlace1_hover.png'" onmouseout="this.src='img/enlace1.png'"></a> <img align=right src="img/Pzgames.png">
+	 <a href="https://discord.gg/trPzmEQ"><img src="img/enlace2.png" onmouseover="this.src='img/enlace2_hover.png'" onmouseout="this.src='img/enlace2.png'"></a> 
+		 
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <p align=center class='fade-in'><img src="img/titulo.png"></p>
+	 </head>
+
+     <body>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <header>
+			 <nav class="menu">
+				 <ul>
+					 <p><img src="img/noticias1.png"></p>
+					 <li><a href="sinopsis.html"><img src="img/info.png"></a></li>
+					 <li><a href="galeria.html"><img src="img/galeria.png"></a></li>
+					 <li><a href="descarga.html"><img src="img/descarga.png"></a></li>
+					 <li><a href="contacto.html"><img src="img/contacto.png"></a></li>
+				 </ul>
+			 </nav>
+		 </header>
+
+         <style>
+			 body{
+				 background-color: #282828;
+			 }
+
+			 header{
+				 width: 100%;
+				 background: url(img/barra.png);
+				 background-repeat: no-repeat;
+				 background-position: center;
+			 }
+
+			 #btn-menu{
+				 display: none;
+			 }
+
+			 header label{
+				 display: none;
+				 width: 100%;
+				 height: 30px;
+				 padding: 10px;
+			 }
+
+			 .menu ul{
+				 margin: 0;
+				 list-style: none;
+				 padding: 0;
+				 display: flex;
+				 justify-content: center;
+			 }
+			 
+			 .menu li a{
+				 display: block;
+				 padding: 16px 0px;
+			 }
+
+			 .menu li:hover{
+				 background-color: #282828;
+			 }
+		 </style>
+	     
+                 <br>
+	         <br>
+	         <p><img src="img/ficha5.png"></p>
+		 <hr>
+	         <br>
+                 <h3><font color=white>      06/12/2020 => Actualización de versiones (sección Descarga): Windows v.1.10; Multiplataforma/Android v1.03. Si quieres sólo actualizar tu versión actual (windows): </font><b><a href="https://drive.google.com/open?id=12ybler6Dh6p6u1ot6_dvaABP5jfXkmd0"><font color=#33cc33>Zelda ToP Update V.1.10</font></a></b><font color=white></font></h3>    
+	         <br> 
+	         <h3><font color=white>      18/11/2020 => Se actualiza la APK del juego a su versión 1.01 (sección descarga). Para no perder la partida simplemente descargar e instalar esta nueva versión. NO DEBEN DESINSTALAR la APK que ya tienen en su android, sólo debe ser actualizada.</font></h3>    
+	         <br>
+	         <h3><font color=white>      15/11/2020 => Se agrega a Sección Descarga una versión .APK (aplicación para Android) del juego.</font></h3>
+	         <br>
+	         <h3><font color=white>      08/11/2020 => Actualización de versiones (sección Descarga): Windows v.1.09; Multiplataforma v1.02</font></h3>    
+	     	 <br>  
+	     	 <br>  
+	         <h3><font color=white>      31/10/2020 => Se lanza la <font color=#33cc33>Versión Multiplataforma<font color=white> del juego, la cual se encuentra disponible en la Sección de Descargas. Esta versión permite jugar en plataformas como: Android, GNU/Linux, Mac OS X, y muchas más. Para más información visiten </font><b><a href="https://easyrpg.org"><font color=#33cc33>easyrpg.org</font></a></b><font color=white></font></h3>
+	         <h3><font color=white>      Videos Tutoriales:</font></h3>
+                 <h3><font color=white>      </font><b><a href="https://www.youtube.com/watch?v=QJn3c1CytgI"><font color=#33cc33>Tutorial para jugar en Android</font></a></b><font color=white></font></h3>
+                 <h3><font color=white>      </font><b><a href="https://www.youtube.com/watch?v=i7mNYaCKp4s"><font color=#33cc33>EasyRPG en general</font></a></b><font color=white></font></h3>
+                 <br>        
+		 <br>
+                 <h3><font color=white>      31/08/2020 => El juego se actualiza a su versión 1.08 (Se corrigen variados bugs)</font></h3>		         
+		 <br>
+                 <h3><font color=white>      16/08/2020 => El juego se actualiza a su versión 1.07 (Se agregan escenas, aumento del Lore y corrección de bugs)</font></h3> 
+	         <br>
+                 <h3><font color=white>      19/07/2020 => El juego se actualiza a su versión 1.06 (Se incorporan NPC's concurso, 2 nuevas cinemáticas)</font></h3>
+	     	 <br>
+	         <h3><font color=white>      05/07/2020 => Se entregan los resultados del Concurso ZToP 2020</font></h3>    
+	      	 <br>	 
+	         <h3><font color=white>      19/06/2020 => Se abren inscripciones Concurso ZToP 2020</font></h3>    
+	      	 <br>
+	     	 <h3><font color=white>      11/06/2020 => El juego se actualiza a su versión 1.05 (se incorpora Sistema de Dificultad)</font></h3>
+	     	 <br>
+	         <h3><font color=white>      18/05/2020 => El juego se actualiza a su versión 1.04 (se incorpora menú de Soundtrack y Trofeos)</font></h3>    
+	         <br>
+	         <h3><font color=white>      09/05/2020 => El juego se actualiza a su versión 1.03</font></h3>    
+	         <br>
+	         <h3><font color=white>      04/05/2020 => El juego se actualiza a su versión 1.02</font></h3>
+	         <br>
+	         <h3><font color=white>      30/04/2020 => El juego se actualiza a su versión 1.01</font></h3>
+	         <br>
+		 <h3><font color=white>      28/04/2020 => Se actualiza el juego (Update 2)</font></h3>
+	         <br>
+	         <h3><font color=white>      27/04/2020 => Se actualiza el juego (Update 1)</font></h3>
+		 <br>
+	         <h3><font color=white>      26/04/2020 => Descarga Versión 1.00 del juego disponible</font></h3>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <br>
+		 <h5 align=center><font color=white>Sitio web por </font><b><a href="https://twitter.com/ArmanthVOX"><font color=#33cc33>Armanth VOX</font></a></b><font color=white>.</font></h5>
+	 </body>
+</html>
